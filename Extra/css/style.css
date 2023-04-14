@@ -1,0 +1,13 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    text-align: center;
+}
+
+.hidden{
+    visibility: hidden;
+}
